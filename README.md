@@ -1,2 +1,2 @@
-# AccountWideAchievments
-Addon to Elder Scrolls Online which adds support for account wide achievments.
+# Ergaroth's UI Tools
+Set of UI tools to Elder Scrolls Online (in the form of an addon).
